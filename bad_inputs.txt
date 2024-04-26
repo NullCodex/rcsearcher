@@ -1,0 +1,7 @@
+{'rxn': 'CC(=O)[Br:4]>>[BrH:4]', 'product': '[BrH:4]'}
+{'rxn': 'O=C(CO)N1CCC(C(=O)[OH:28])CC1>>[OH2:28]', 'product': '[OH2:28]'}
+{'rxn': 'CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccc([I:19])cc21>>[IH:19]'}
+{'rxn': 'O=C(Cn1c(-c2ccc(Cl)c(Cl)c2)nc2cccnc21)[OH:10]>>[OH2:10]'}
+
+ 
+{'rxn': 'CC(=O)[Br:4]>>[BrH:4]', 'product': '[BrH:4]'}
